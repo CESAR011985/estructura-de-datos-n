@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejercicios-propuestos-de-listas-enlazada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88b1bb1cfee70b4b8a50c708320287a2e05d79b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b239ecc1e14076ede7d7fdd8895c76115351f2b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejercicios-propuestos-de-listas-enlazada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejercicios-propuestos-de-listas-enlazada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
