@@ -1,0 +1,24 @@
+[*.cs]
+
+# IDE0210: Convertir en instrucciones de nivel superior
+csharp_style_prefer_top_level_statements = false
+[*.cs]
+
+# IDE0210: Convertir en instrucciones de nivel superior
+csharp_style_prefer_top_level_statements = true
+[*.cs]
+
+# IDE0210: Convertir en instrucciones de nivel superior
+csharp_style_prefer_top_level_statements = true
+[*.cs]
+
+# IDE0210: Convertir en instrucciones de nivel superior
+csharp_style_prefer_top_level_statements = false
+[*.cs]
+
+# IDE0210: Convertir en instrucciones de nivel superior
+csharp_style_prefer_top_level_statements = true
+[*.cs]
+
+# IDE0210: Convertir en instrucciones de nivel superior
+csharp_style_prefer_top_level_statements = true
