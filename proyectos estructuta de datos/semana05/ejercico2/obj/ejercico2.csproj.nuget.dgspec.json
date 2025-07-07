@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\semana05.csproj": {}
+    "c:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\ejercico2\\ejercico2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\semana05.csproj": {
+    "c:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\ejercico2\\ejercico2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\semana05.csproj",
-        "projectName": "semana05",
-        "projectPath": "C:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\semana05.csproj",
+        "projectUniqueName": "c:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\ejercico2\\ejercico2.csproj",
+        "projectName": "ejercico2",
+        "projectPath": "c:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\ejercico2\\ejercico2.csproj",
         "packagesPath": "C:\\Users\\Jcyrm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\obj\\",
+        "outputPath": "c:\\Users\\Jcyrm\\Documents\\GitHub\\proyectos estructuta de datos\\semana05\\ejercico2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jcyrm\\AppData\\Roaming\\NuGet\\NuGet.Config"

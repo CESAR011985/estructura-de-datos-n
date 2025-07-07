@@ -1,0 +1,5 @@
+c:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana05\ejercico2\obj\Debug\net9.0\ejercico2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana05\ejercico2\obj\Debug\net9.0\ejercico2.AssemblyInfoInputs.cache
+c:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana05\ejercico2\obj\Debug\net9.0\ejercico2.AssemblyInfo.cs
+c:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana05\ejercico2\obj\Debug\net9.0\ejercico2.csproj.CoreCompileInputs.cache
+c:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana05\ejercico2\obj\Debug\net9.0\ejercico2.sourcelink.json

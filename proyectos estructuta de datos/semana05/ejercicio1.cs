@@ -1,68 +1,91 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
-namespace Estadisticas
+class Program
 {
-    public class CalculadoraEstadistica
+    static void Main(string[] args)
     {
-        private List<double> numeros;
-
-        public CalculadoraEstadistica(string entrada)
+        List<string> asignaturas = new List<string>()
         {
-            if (string.IsNullOrWhiteSpace(entrada))
-                throw new ArgumentException("La entrada no puede estar vacía");
+            "Matemáticas", "Física", "Química", "Historia", "Lengua"
+        };
 
-            try
+        int opcion;
+        do
+        {
+            Console.WriteLine("\n===== MENÚ DE ASIGNATURAS =====");
+            Console.WriteLine("1. Ver asignaturas");
+            Console.WriteLine("2. Agregar asignatura");
+            Console.WriteLine("3. Buscar asignatura");
+            Console.WriteLine("4. Eliminar asignatura");
+            Console.WriteLine("0. Salir");
+            Console.Write("Seleccione una opción: ");
+            
+            if (!int.TryParse(Console.ReadLine(), out opcion))
             {
-                numeros = entrada.Split(',')
-                    .Select(s => double.Parse(s.Trim()))
-                    .ToList();
+                Console.WriteLine("❌ Opción inválida. Intente de nuevo.");
+                continue;
             }
-            catch (FormatException)
+
+            switch (opcion)
             {
-                throw new ArgumentException("La entrada contiene valores no numéricos");
+                case 1:
+                    Console.WriteLine("\n📚 Lista de asignaturas:");
+                    foreach (string asignatura in asignaturas)
+                    {
+                        Console.WriteLine("- " + asignatura);
+                    }
+                    break;
+
+                case 2:
+                    Console.Write("Ingrese el nombre de la nueva asignatura: ");
+                    string nueva = Console.ReadLine();
+                    if (!asignaturas.Contains(nueva))
+                    {
+                        asignaturas.Add(nueva);
+                        Console.WriteLine("✅ Asignatura agregada.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("⚠️ La asignatura ya existe.");
+                    }
+                    break;
+
+                case 3:
+                    Console.Write("Ingrese el nombre de la asignatura a buscar: ");
+                    string buscar = Console.ReadLine();
+                    if (asignaturas.Contains(buscar))
+                    {
+                        Console.WriteLine("🔍 La asignatura está en la lista.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("🚫 La asignatura no se encuentra.");
+                    }
+                    break;
+
+                case 4:
+                    Console.Write("Ingrese el nombre de la asignatura a eliminar: ");
+                    string eliminar = Console.ReadLine();
+                    if (asignaturas.Remove(eliminar))
+                    {
+                        Console.WriteLine("🗑️ Asignatura eliminada.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("🚫 No se encontró la asignatura.");
+                    }
+                    break;
+
+                case 0:
+                    Console.WriteLine("👋 Saliendo del programa...");
+                    break;
+
+                default:
+                    Console.WriteLine("❌ Opción inválida.");
+                    break;
             }
 
-            if (!numeros.Any())
-                throw new ArgumentException("Debe ingresar al menos un número");
-        }
-
-        public double CalcularMedia()
-        {
-            return numeros.Average();
-        }
-
-        public double CalcularDesviacionTipica()
-        {
-            var media = CalcularMedia();
-            var sumaCuadrados = numeros.Sum(num => Math.Pow(num - media, 2));
-            return Math.Sqrt(sumaCuadrados / numeros.Count);
-        }
-
-        public void MostrarResultados()
-        {
-            Console.WriteLine($"Media: {CalcularMedia():F2}");
-            Console.WriteLine($"Desviación típica: {CalcularDesviacionTipica():F2}");
-        }
-    }
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Introduce números separados por comas:");
-            string entrada = Console.ReadLine();
-
-            try
-            {
-                var calculadora = new CalculadoraEstadistica(entrada);
-                calculadora.MostrarResultados();
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error: {ex.Message}");
-            }
-        }
+        } while (opcion != 0);
     }
 }
