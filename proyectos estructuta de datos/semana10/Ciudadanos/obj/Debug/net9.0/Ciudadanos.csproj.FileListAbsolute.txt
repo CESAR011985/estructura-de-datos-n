@@ -1,0 +1,43 @@
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.exe
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.deps.json
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.runtimeconfig.json
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.dll
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.pdb
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.AssemblyInfo.cs
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.dll
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\obj\Debug\net9.0\refint\Ciudadanos.dll
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.pdb
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.genruntimeconfig.cache
+C:\Users\user\Documents\Projects\Ciudadanos\Ciudadanos\obj\Debug\net9.0\ref\Ciudadanos.dll
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.exe
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.deps.json
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.runtimeconfig.json
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.dll
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\bin\Debug\net9.0\Ciudadanos.pdb
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.AssemblyInfoInputs.cache
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.AssemblyInfo.cs
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.csproj.CoreCompileInputs.cache
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.dll
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\obj\Debug\net9.0\refint\Ciudadanos.dll
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.pdb
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\obj\Debug\net9.0\Ciudadanos.genruntimeconfig.cache
+C:\Users\Jcyrm\Documents\ESTRUCTURA DE DATOS\Ciudadanos\Ciudadanos\obj\Debug\net9.0\ref\Ciudadanos.dll
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\bin\Debug\net9.0\Ciudadanos.exe
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\bin\Debug\net9.0\Ciudadanos.deps.json
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\bin\Debug\net9.0\Ciudadanos.runtimeconfig.json
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\bin\Debug\net9.0\Ciudadanos.dll
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\bin\Debug\net9.0\Ciudadanos.pdb
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\Ciudadanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\Ciudadanos.AssemblyInfoInputs.cache
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\Ciudadanos.AssemblyInfo.cs
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\Ciudadanos.csproj.CoreCompileInputs.cache
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\Ciudadanos.sourcelink.json
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\Ciudadanos.dll
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\refint\Ciudadanos.dll
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\Ciudadanos.pdb
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\Ciudadanos.genruntimeconfig.cache
+C:\Users\Jcyrm\Documents\GitHub\proyectos estructuta de datos\semana10\Ciudadanos\obj\Debug\net9.0\ref\Ciudadanos.dll

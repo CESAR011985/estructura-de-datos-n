@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jcyrm\\Documents\\ESTRUCTURA DE DATOS\\Ciudadanos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE33CEA-B33C-48ED-BF10-7244CFA73D8F}|Ciudadanos\\Ciudadanos.csproj|c:\\users\\jcyrm\\documents\\estructura de datos\\ciudadanos\\ciudadanos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE33CEA-B33C-48ED-BF10-7244CFA73D8F}|Ciudadanos\\Ciudadanos.csproj|solutionrelative:ciudadanos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE33CEA-B33C-48ED-BF10-7244CFA73D8F}|Ciudadanos\\Ciudadanos.csproj|c:\\users\\jcyrm\\documents\\estructura de datos\\ciudadanos\\ciudadanos\\models\\ciudadano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE33CEA-B33C-48ED-BF10-7244CFA73D8F}|Ciudadanos\\Ciudadanos.csproj|solutionrelative:ciudadanos\\models\\ciudadano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE33CEA-B33C-48ED-BF10-7244CFA73D8F}|Ciudadanos\\Ciudadanos.csproj|c:\\users\\jcyrm\\documents\\estructura de datos\\ciudadanos\\ciudadanos\\services\\ciudadanoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE33CEA-B33C-48ED-BF10-7244CFA73D8F}|Ciudadanos\\Ciudadanos.csproj|solutionrelative:ciudadanos\\services\\ciudadanoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CiudadanoService.cs",
+              "DocumentMoniker": "C:\\Users\\Jcyrm\\Documents\\ESTRUCTURA DE DATOS\\Ciudadanos\\Ciudadanos\\Services\\CiudadanoService.cs",
+              "RelativeDocumentMoniker": "Ciudadanos\\Services\\CiudadanoService.cs",
+              "ToolTip": "C:\\Users\\Jcyrm\\Documents\\ESTRUCTURA DE DATOS\\Ciudadanos\\Ciudadanos\\Services\\CiudadanoService.cs",
+              "RelativeToolTip": "Ciudadanos\\Services\\CiudadanoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:35:49.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ciudadano.cs",
+              "DocumentMoniker": "C:\\Users\\Jcyrm\\Documents\\ESTRUCTURA DE DATOS\\Ciudadanos\\Ciudadanos\\Models\\Ciudadano.cs",
+              "RelativeDocumentMoniker": "Ciudadanos\\Models\\Ciudadano.cs",
+              "ToolTip": "C:\\Users\\Jcyrm\\Documents\\ESTRUCTURA DE DATOS\\Ciudadanos\\Ciudadanos\\Models\\Ciudadano.cs",
+              "RelativeToolTip": "Ciudadanos\\Models\\Ciudadano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:28:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jcyrm\\Documents\\ESTRUCTURA DE DATOS\\Ciudadanos\\Ciudadanos\\Program.cs",
+              "RelativeDocumentMoniker": "Ciudadanos\\Program.cs",
+              "ToolTip": "C:\\Users\\Jcyrm\\Documents\\ESTRUCTURA DE DATOS\\Ciudadanos\\Ciudadanos\\Program.cs",
+              "RelativeToolTip": "Ciudadanos\\Program.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAQwNkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:27:35.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
